@@ -1,0 +1,47 @@
+[
+  {
+    "authorName": "John Doe",
+    "authorImageUrl": "https://randomuser.me/api/portraits/men/67.jpg",
+    "newsImageUrl": "https://fastly.picsum.photos/id/447/536/354.jpg?hmac=WBmTWaIUySMIDKNZJrFpijOmkFXeySjaVc81UzF8XfU",
+    "newsTitle": "Novo produto revolucionário lançado pela empresa XYZ",
+    "newsDescription": "A empresa XYZ lançou um novo produto que promete revolucionar o mercado. Saiba mais sobre essa inovação.",
+    "newsDate": "2023-05-25",
+    "link": "https://canvas.pucminas.br/"
+  },
+  {
+    "authorName": "Jane Smith",
+    "authorImageUrl": "https://randomuser.me/api/portraits/women/35.jpg",
+    "newsImageUrl": "https://fastly.picsum.photos/id/991/536/354.jpg?hmac=hkNxNOuysrkAnAfylmUobs0-AyJIp70mMVpmQMDLZas",
+    "newsTitle": "Descoberta científica promete avanços na cura do câncer",
+    "newsDescription": "Pesquisadores anunciam uma descoberta promissora que pode levar a avanços significativos na cura do câncer. Saiba mais sobre essa importante pesquisa.",
+    "newsDate": "2023-05-24",
+    "link": "https://canvas.pucminas.br/"
+  },
+  {
+    "authorName": "Alex Johnson",
+    "authorImageUrl": "https://randomuser.me/api/portraits/men/77.jpg",
+    "newsImageUrl": "https://fastly.picsum.photos/id/729/536/354.jpg?hmac=2w_Fr-PmHejgKkQutSxtALszyq2aSwHUw2HajRvw7t0",
+    "newsTitle": "Evento de tecnologia apresenta as últimas tendências do setor",
+    "newsDescription": "O maior evento de tecnologia do ano reuniu especialistas e empresas do setor para apresentar as últimas tendências e inovações. Confira os destaques.",
+    "newsDate": "2023-05-23",
+    "link": "https://canvas.pucminas.br/"
+  },
+  {
+    "authorName": "Emily Davis",
+    "authorImageUrl": "https://randomuser.me/api/portraits/women/21.jpg",
+    "newsImageUrl": "https://fastly.picsum.photos/id/59/536/354.jpg?hmac=HQ1B2iVRsA2r75Mxt18dSuJa241-Wggf0VF9BxKQhPc",
+    "newsTitle": "Atleta brasileiro conquista medalha de ouro em competição internacional",
+    "newsDescription": "Um atleta brasileiro brilhou em uma competição internacional ao conquistar a medalha de ouro em sua modalidade. Saiba mais sobre essa grande conquista.",
+    "newsDate": "2023-05-22",
+    "link": "https://canvas.pucminas.br/"
+  },
+  {
+    "authorName": "Michael Smith",
+    "authorImageUrl": "https://randomuser.me/api/portraits/men/33.jpg",
+    "newsImageUrl": "https://fastly.picsum.photos/id/21/536/354.jpg?hmac=x7VauRBk07Ndu9Ts8bn4mgQtIkTR9_mltTFqaWiMuyA",
+    "newsTitle": "Novo filme do diretor renomado estreia com sucesso de crítica",
+    "newsDescription": "O aguardado filme do renomado diretor chegou aos cinemas e está recebendo elogios da crítica especializada. Conheça mais sobre essa obra cinematográfica.",
+    "newsDate": "2023-05-21",
+    "link": "https://canvas.pucminas.br/"
+  }
+]
